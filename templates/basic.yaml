@@ -1,0 +1,22 @@
+# App Basic Information
+name: {APP_NAME}
+bundleIdentifier:
+developerName:
+iconURL:
+localizedDescription:
+subtitle:
+tintColor: 848ef9
+
+# Screenshots
+screenshotURLs:
+  - https://example.com/screenshot1.png
+
+# App Permissions (optional)
+appPermissions: {}
+
+# GitHub Release Configuration
+github:
+  owner:
+  repo:
+  assetPattern: "*.ipa"
+  maxVersions: 5

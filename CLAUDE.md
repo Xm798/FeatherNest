@@ -25,10 +25,14 @@ FeatherNest is an automated Feather app repository generator that:
 FeatherNest/
 ├── apps/                    # App configuration files (YAML)
 │   └── *.yaml              # Each app has its own config
+├── templates/               # App config templates
+│   ├── basic.yaml          # Basic template with essential fields
+│   └── full.yaml           # Full template with all optional fields
 ├── src/                     # TypeScript source code
 │   ├── types.ts            # Type definitions
 │   ├── github.ts           # GitHub API client
 │   ├── generator.ts        # Core repository generator
+│   ├── new-app.ts          # App config generator CLI
 │   └── index.ts            # Entry point
 ├── .github/workflows/
 │   └── update-repo.yml     # Auto-update workflow
@@ -90,9 +94,10 @@ github:
 ### Common Tasks
 
 **Add a new app:**
-1. Create `apps/newapp.yaml` with app info and GitHub config
-2. Run `bun run generate` to test
-3. Commit and push - GitHub Actions will auto-update
+1. Run `bun run new-app "App Name"` (basic) or `bun run new-app "App Name" --full` (full template)
+2. Edit the generated `apps/app-name.yaml` with app info and GitHub config
+3. Run `bun run generate` to test
+4. Commit and push - GitHub Actions will auto-update
 
 **Modify repository info:**
 1. Edit `repo-config.yaml`

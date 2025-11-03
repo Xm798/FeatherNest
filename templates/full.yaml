@@ -1,0 +1,60 @@
+# App Basic Information
+name: {APP_NAME}
+bundleIdentifier:
+developerName:
+iconURL:
+localizedDescription:
+subtitle:
+description:
+tintColor: 848ef9
+
+# App Category and Beta Status
+category:
+beta: false
+
+# Screenshots (Simple array format)
+screenshotURLs:
+  - https://example.com/screenshot1.png
+  - https://example.com/screenshot2.png
+
+# Screenshots (Device-specific format - alternative to screenshotURLs)
+# screenshots:
+#   iPhone:
+#     - https://example.com/iphone-screenshot1.png
+#     - https://example.com/iphone-screenshot2.png
+#   iPad:
+#     - https://example.com/ipad-screenshot1.png
+
+# App Permissions (Modern format with entitlements and privacy)
+appPermissions:
+  entitlements:
+    - com.apple.security.application-groups
+    - keychain-access-groups
+  privacy:
+    - name: NSCameraUsageDescription
+      usageDescription: Camera access is required to take photos
+    - name: NSPhotoLibraryUsageDescription
+      usageDescription: Photo library access is required to save images
+    - name: NSLocationWhenInUseUsageDescription
+      usageDescription: Location access is required for this feature
+
+# Legacy Permissions Format (Alternative to appPermissions)
+# permissions:
+#   - type: photos
+#     usageDescription: Photo library access is required to save images
+#   - type: camera
+#     usageDescription: Camera access is required to take photos
+
+# Version Information (Usually auto-populated from GitHub releases)
+# version:
+# versionDate:
+# versionDescription:
+# downloadURL:
+# size:
+
+# GitHub Release Configuration
+github:
+  owner:
+  repo:
+  assetPattern: "*.ipa"
+  maxVersions: 5
