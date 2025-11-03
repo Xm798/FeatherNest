@@ -97,7 +97,7 @@
       "iconURL": "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/appicon/appicon-512.png",
       "localizedDescription": "EhPanda is an unofficial app for iOS and iPadOS that allows users to access and explore adult manga and doujinshi from E-Hentai.\nWith a user-friendly interface, powerful search features, and a vast collection of content, it offers a personalized library and an immersive reading experience.\nNote: EhPanda is not affiliated with or endorsed by E-Hentai.",
       "subtitle": "Unleash your passion for E-Hentai with EhPanda.",
-      "tintColor": 289979,
+      "tintColor": "289979",
       "versions": [
         {
           "version": "2.8.0",
