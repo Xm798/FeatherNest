@@ -1,0 +1,26 @@
+{
+  "name": "feather-nest",
+  "version": "1.0.0",
+  "description": "An ios app repository for Feather",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "bun build src/index.ts --target=node --outdir=dist",
+    "generate": "bun run src/index.ts",
+    "dev": "bun run src/index.ts",
+    "new-app": "bun run src/new-app.ts"
+  },
+  "keywords": ["feather", "ios", "app-repository", "bun"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^20.10.6",
+    "@types/bun": "^1.0.0",
+    "typescript": "^5.3.3"
+  }
+}
