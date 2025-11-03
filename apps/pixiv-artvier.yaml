@@ -1,0 +1,25 @@
+# App Basic Information
+name: Pixiv Artvier
+bundleIdentifier: org.augenblick.artvier
+developerName: kerrinz
+iconURL: https://github.com/kerrinz/pixiv-artvier/blob/main/assets/icon/ic_launcher.png?raw=true
+localizedDescription: A third-party app for pixiv. 一个第三方 pixiv App
+subtitle: A third-party app for pixiv
+tintColor: 848ef9
+
+# Screenshots
+screenshotURLs:
+  - https://kerrinz.com/files/images/artvier/home_250210.jpg
+  - https://kerrinz.com/files/images/artvier/profile_230227.jpg
+  - https://kerrinz.com/files/images/artvier/user_detail_230227.jpg
+  - https://kerrinz.com/files/images/artvier/illust_detail_230227.jpg
+
+# App Permissions (optional)
+appPermissions: {}
+
+# GitHub Release Configuration
+github:
+  owner: kerrinz
+  repo: pixiv-artvier
+  assetPattern: "*.ipa"  # Pattern to match IPA files in releases
+  maxVersions: 5         # Maximum number of versions to include

@@ -1,0 +1,30 @@
+# App Basic Information
+name: EhPanda
+bundleIdentifier: app.ehpanda
+developerName: 
+iconURL: https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/appicon/appicon-512.png
+localizedDescription: "EhPanda is an unofficial app for iOS and iPadOS that allows users to access and explore adult manga and doujinshi from E-Hentai.\nWith a user-friendly interface, powerful search features, and a vast collection of content, it offers a personalized library and an immersive reading experience.\nNote: EhPanda is not affiliated with or endorsed by E-Hentai."
+subtitle: Unleash your passion for E-Hentai with EhPanda.
+tintColor: 289979
+
+# App Permissions (optional)
+appPermissions: {}
+
+screenshotURLs:
+  - "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Home_EN_Light.png"
+  - "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/SlideMenu_EN_Light.png"
+  - "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Detail_EN_Light.png"
+  - "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Comment_EN_Light.png"
+  - "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Archive_EN_Light.png"
+  - "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Torrent_EN_Light.png"
+  - "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/EhSetting_EN_Light.png"
+  - "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Filter_EN_Light.png"
+  - "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Setting_EN_Light.png"
+  - "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/DomainFronting_EN_Light.png"
+
+# GitHub Release Configuration
+github:
+  owner: EhPanda-Team
+  repo: EhPanda
+  assetPattern: "*.ipa"
+  maxVersions: 5

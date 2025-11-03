@@ -1,0 +1,22 @@
+# App Basic Information
+name: Pixiv Viewer
+bundleIdentifier: org.eu.cocomi.pxvek
+developerName: asadahimeka
+iconURL: https://github.com/asadahimeka/pixiv-viewer-app/blob/main/ios/App/App/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png?raw=true
+localizedDescription: Yet Another Pixiv Illustration & Novel Viewer.
+subtitle: 又一个 pixiv 第三方免登录 APP，提供 pixiv 的插画、动图、漫画和小说等作品的浏览，适配多端样式，提供多种浏览布局选择，支持免代理直连，支持自定义 API 与图床，支持 RefreshToken/OAuth/Cookie 方式登录。
+tintColor: 848ef9
+
+# Screenshots
+screenshotURLs:
+  - https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea1.jpg
+  - https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea2.jpg
+  - https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea3.jpg
+  - https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea4.jpg
+
+# GitHub Release Configuration
+github:
+  owner: asadahimeka
+  repo: pixiv-viewer-app
+  assetPattern: "*.ipa"
+  maxVersions: 5
