@@ -5,7 +5,7 @@ developerName: kerrinz
 iconURL: https://github.com/kerrinz/pixiv-artvier/blob/main/assets/icon/ic_launcher.png?raw=true
 localizedDescription: A third-party app for pixiv. 一个第三方 pixiv App
 subtitle: A third-party app for pixiv
-tintColor: 848ef9
+tintColor: "848ef9"
 
 # Screenshots
 screenshotURLs:
