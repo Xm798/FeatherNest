@@ -91,6 +91,34 @@
       "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.0/artvier-ios-0.6.0-release.ipa"
     },
     {
+      "name": "cherry-studio",
+      "bundleIdentifier": "com.cherry-ai.cherry-studio-app",
+      "developerName": "CherryHQ",
+      "iconURL": "https://github.com/CherryHQ/cherry-studio-app/raw/main/src/assets/images/ios-splash-icon.png",
+      "localizedDescription": "🍒 Cherry Studio App —— The official mobile version of Cherry Studio, bringing powerful LLMs (Large Language Models) interaction to your iOS and Android devices.",
+      "subtitle": "🍒 This is the mobile version of Cherry Studio.",
+      "tintColor": "#ee6d64",
+      "versions": [
+        {
+          "version": "0.1.1",
+          "date": "2025-11-04T12:11:49Z",
+          "size": 37328864,
+          "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/0.1.1/CherryStudio.0.1.1.ipa"
+        },
+        {
+          "version": "0.1.0",
+          "date": "2025-10-31T01:37:39Z",
+          "size": 37194612,
+          "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/0.1.0/CherryStudio.0.1.0.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "0.1.1",
+      "versionDate": "2025-11-04T12:11:49Z",
+      "size": 37328864,
+      "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/0.1.1/CherryStudio.0.1.1.ipa"
+    },
+    {
       "name": "EhPanda",
       "bundleIdentifier": "app.ehpanda",
       "developerName": null,
