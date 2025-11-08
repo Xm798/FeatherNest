@@ -1,0 +1,15 @@
+# App Basic Information
+name: cherry-studio
+bundleIdentifier: com.cherry-ai.cherry-studio-app
+developerName: CherryHQ
+iconURL: https://github.com/CherryHQ/cherry-studio-app/raw/main/src/assets/images/ios-splash-icon.png
+localizedDescription: "🍒 Cherry Studio App —— The official mobile version of Cherry Studio, bringing powerful LLMs (Large Language Models) interaction to your iOS and Android devices."
+subtitle: "🍒 This is the mobile version of Cherry Studio."
+tintColor: "#ee6d64"
+
+# GitHub Release Configuration
+github:
+  owner: CherryHQ
+  repo: cherry-studio-app
+  assetPattern: "*.ipa"
+  maxVersions: 5
