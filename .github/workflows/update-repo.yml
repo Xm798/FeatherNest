@@ -35,7 +35,7 @@ jobs:
           bun-version: latest
 
       - name: Install dependencies
-        run: bun install
+        run: bun install --frozen-lockfile
 
       - name: Generate app-repo.json
         env:
@@ -58,15 +58,25 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Create or checkout release branch
-          git fetch origin release:release 2>/dev/null || git checkout --orphan release
-          git checkout release || git checkout --orphan release
+          # Save the generated file to temp location
+          cp output/app-repo.json /tmp/app-repo.json
 
-          # Remove all files except output
+          # Check if release branch exists on remote
+          if git ls-remote --exit-code --heads origin release >/dev/null 2>&1; then
+            # Branch exists, fetch and checkout
+            git fetch origin release
+            git checkout -B release origin/release
+          else
+            # Branch doesn't exist, create orphan branch
+            git checkout --orphan release
+          fi
+
+          # Remove all files
           git rm -rf . 2>/dev/null || true
+          find . -maxdepth 1 ! -name '.git' ! -name '.' -exec rm -rf {} + 2>/dev/null || true
 
           # Copy generated file
-          cp output/app-repo.json app-repo.json
+          cp /tmp/app-repo.json app-repo.json
 
           # Add and commit
           git add app-repo.json
