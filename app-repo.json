@@ -48,6 +48,12 @@
       "tintColor": "848ef9",
       "versions": [
         {
+          "version": "0.6.1",
+          "date": "2025-11-29T15:17:53Z",
+          "size": 11851069,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.1/artvier-ios-0.6.1-release.ipa"
+        },
+        {
           "version": "0.6.0",
           "date": "2025-10-10T05:11:32Z",
           "size": 11781393,
@@ -70,12 +76,6 @@
           "date": "2025-05-07T16:31:42Z",
           "size": 14926392,
           "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.5.1/artvier-ios-0.5.1-release.ipa"
-        },
-        {
-          "version": "0.5.0",
-          "date": "2025-03-10T15:01:33Z",
-          "size": 14260107,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.5.0/artvier-ios-0.5.0-release.ipa"
         }
       ],
       "appPermissions": {},
@@ -85,10 +85,10 @@
         "https://kerrinz.com/files/images/artvier/user_detail_230227.jpg",
         "https://kerrinz.com/files/images/artvier/illust_detail_230227.jpg"
       ],
-      "version": "0.6.0",
-      "versionDate": "2025-10-10T05:11:32Z",
-      "size": 11781393,
-      "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.0/artvier-ios-0.6.0-release.ipa"
+      "version": "0.6.1",
+      "versionDate": "2025-11-29T15:17:53Z",
+      "size": 11851069,
+      "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.1/artvier-ios-0.6.1-release.ipa"
     },
     {
       "name": "cherry-studio",
