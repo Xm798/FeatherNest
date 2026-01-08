@@ -100,6 +100,12 @@
       "tintColor": "#ee6d64",
       "versions": [
         {
+          "version": "0.1.6",
+          "date": "2026-01-08T02:55:33Z",
+          "size": 40566478,
+          "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/v0.1.6/CherryStudio.v0.1.6.ipa"
+        },
+        {
           "version": "0.1.5",
           "date": "2025-12-25T07:11:41Z",
           "size": 38736049,
@@ -122,19 +128,13 @@
           "date": "2025-11-20T06:14:01Z",
           "size": 38257571,
           "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/v0.1.2/CherryStudio.0.1.2.ipa"
-        },
-        {
-          "version": "0.1.1",
-          "date": "2025-11-04T12:11:49Z",
-          "size": 37328864,
-          "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/0.1.1/CherryStudio.0.1.1.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "0.1.5",
-      "versionDate": "2025-12-25T07:11:41Z",
-      "size": 38736049,
-      "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/v0.1.5/CherryStudio.v0.1.5.ipa"
+      "version": "0.1.6",
+      "versionDate": "2026-01-08T02:55:33Z",
+      "size": 40566478,
+      "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/v0.1.6/CherryStudio.v0.1.6.ipa"
     },
     {
       "name": "EhPanda",
