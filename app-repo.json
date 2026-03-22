@@ -170,6 +170,12 @@
       "tintColor": "848ef9",
       "versions": [
         {
+          "version": "1.32.2",
+          "date": "2026-03-22T08:34:08Z",
+          "size": 8604016,
+          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.32.2/pixiv-viewer_1.32.2_ios_unsigned.ipa"
+        },
+        {
           "version": "1.25.5",
           "date": "2025-05-12T03:46:44Z",
           "size": 7021184,
@@ -189,10 +195,10 @@
         "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea3.jpg",
         "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea4.jpg"
       ],
-      "version": "1.25.5",
-      "versionDate": "2025-05-12T03:46:44Z",
-      "size": 7021184,
-      "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.25.5/pixiv-viewer_1.25.5_ios_unsigned.ipa"
+      "version": "1.32.2",
+      "versionDate": "2026-03-22T08:34:08Z",
+      "size": 8604016,
+      "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.32.2/pixiv-viewer_1.32.2_ios_unsigned.ipa"
     }
   ],
   "news": []
