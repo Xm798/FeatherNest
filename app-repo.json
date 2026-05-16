@@ -5,46 +5,6 @@
   "website": "https://github.com/Xm798/FeatherNest",
   "apps": [
     {
-      "name": "Pixiv Viewer",
-      "bundleIdentifier": "org.eu.cocomi.pxvek",
-      "developerName": "asadahimeka",
-      "iconURL": "https://github.com/asadahimeka/pixiv-viewer-app/blob/main/ios/App/App/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png?raw=true",
-      "localizedDescription": "Yet Another Pixiv Illustration & Novel Viewer.",
-      "subtitle": "又一个 pixiv 第三方免登录 APP，提供 pixiv 的插画、动图、漫画和小说等作品的浏览，适配多端样式，提供多种浏览布局选择，支持免代理直连，支持自定义 API 与图床，支持 RefreshToken/OAuth/Cookie 方式登录。",
-      "tintColor": "848ef9",
-      "versions": [
-        {
-          "version": "1.32.2",
-          "date": "2026-03-22T08:34:08Z",
-          "size": 8604031,
-          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.32.2/pixiv-viewer_1.32.2_ios_unsigned.ipa"
-        },
-        {
-          "version": "1.25.5",
-          "date": "2025-05-12T03:46:44Z",
-          "size": 7021184,
-          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.25.5/pixiv-viewer_1.25.5_ios_unsigned.ipa"
-        },
-        {
-          "version": "1.0",
-          "date": "2023-03-17T18:48:51Z",
-          "size": 6497902,
-          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/1.0/%2BiPxve-1.17.5-ios-no-sign.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea1.jpg",
-        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea2.jpg",
-        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea3.jpg",
-        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea4.jpg"
-      ],
-      "version": "1.32.2",
-      "versionDate": "2026-03-22T08:34:08Z",
-      "size": 8604031,
-      "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.32.2/pixiv-viewer_1.32.2_ios_unsigned.ipa"
-    },
-    {
       "name": "cherry-studio",
       "bundleIdentifier": "com.cherry-ai.cherry-studio-app",
       "developerName": "CherryHQ",
@@ -89,6 +49,98 @@
       "versionDate": "2026-02-27T03:39:09Z",
       "size": 40404345,
       "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/v0.1.7/CherryStudio.v0.1.7.ipa"
+    },
+    {
+      "name": "Pixiv Artvier",
+      "bundleIdentifier": "org.augenblick.artvier",
+      "developerName": "kerrinz",
+      "iconURL": "https://github.com/kerrinz/pixiv-artvier/blob/main/assets/icon/ic_launcher.png?raw=true",
+      "localizedDescription": "A third-party app for pixiv. 一个第三方 pixiv App",
+      "subtitle": "A third-party app for pixiv",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "0.6.4",
+          "date": "2026-04-08T13:58:14Z",
+          "size": 12099429,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.4/artvier-ios-0.6.4-release.ipa"
+        },
+        {
+          "version": "0.6.3",
+          "date": "2026-01-29T14:58:48Z",
+          "size": 12084696,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.3/artvier-ios-0.6.3-release.ipa"
+        },
+        {
+          "version": "0.6.2",
+          "date": "2026-01-12T13:21:20Z",
+          "size": 12115883,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.2/artvier-ios-0.6.2-release.ipa"
+        },
+        {
+          "version": "0.6.1",
+          "date": "2025-11-29T15:17:53Z",
+          "size": 11851069,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.1/artvier-ios-0.6.1-release.ipa"
+        },
+        {
+          "version": "0.6.0",
+          "date": "2025-10-10T05:11:32Z",
+          "size": 11781393,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.0/artvier-ios-0.6.0-release.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://kerrinz.com/files/images/artvier/home_250210.jpg",
+        "https://kerrinz.com/files/images/artvier/profile_230227.jpg",
+        "https://kerrinz.com/files/images/artvier/user_detail_230227.jpg",
+        "https://kerrinz.com/files/images/artvier/illust_detail_230227.jpg"
+      ],
+      "version": "0.6.4",
+      "versionDate": "2026-04-08T13:58:14Z",
+      "size": 12099429,
+      "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.4/artvier-ios-0.6.4-release.ipa"
+    },
+    {
+      "name": "Pixiv Viewer",
+      "bundleIdentifier": "org.eu.cocomi.pxvek",
+      "developerName": "asadahimeka",
+      "iconURL": "https://github.com/asadahimeka/pixiv-viewer-app/blob/main/ios/App/App/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png?raw=true",
+      "localizedDescription": "Yet Another Pixiv Illustration & Novel Viewer.",
+      "subtitle": "又一个 pixiv 第三方免登录 APP，提供 pixiv 的插画、动图、漫画和小说等作品的浏览，适配多端样式，提供多种浏览布局选择，支持免代理直连，支持自定义 API 与图床，支持 RefreshToken/OAuth/Cookie 方式登录。",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "1.32.2",
+          "date": "2026-03-22T08:34:08Z",
+          "size": 8604031,
+          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.32.2/pixiv-viewer_1.32.2_ios_unsigned.ipa"
+        },
+        {
+          "version": "1.25.5",
+          "date": "2025-05-12T03:46:44Z",
+          "size": 7021184,
+          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.25.5/pixiv-viewer_1.25.5_ios_unsigned.ipa"
+        },
+        {
+          "version": "1.0",
+          "date": "2023-03-17T18:48:51Z",
+          "size": 6497902,
+          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/1.0/%2BiPxve-1.17.5-ios-no-sign.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea1.jpg",
+        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea2.jpg",
+        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea3.jpg",
+        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea4.jpg"
+      ],
+      "version": "1.32.2",
+      "versionDate": "2026-03-22T08:34:08Z",
+      "size": 8604031,
+      "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.32.2/pixiv-viewer_1.32.2_ios_unsigned.ipa"
     },
     {
       "name": "EhPanda",
@@ -147,58 +199,6 @@
       "versionDate": "2025-10-23T02:13:17Z",
       "size": 7224545,
       "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.8.0/EhPanda.ipa"
-    },
-    {
-      "name": "Pixiv Artvier",
-      "bundleIdentifier": "org.augenblick.artvier",
-      "developerName": "kerrinz",
-      "iconURL": "https://github.com/kerrinz/pixiv-artvier/blob/main/assets/icon/ic_launcher.png?raw=true",
-      "localizedDescription": "A third-party app for pixiv. 一个第三方 pixiv App",
-      "subtitle": "A third-party app for pixiv",
-      "tintColor": "848ef9",
-      "versions": [
-        {
-          "version": "0.6.4",
-          "date": "2026-04-08T13:58:14Z",
-          "size": 12099429,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.4/artvier-ios-0.6.4-release.ipa"
-        },
-        {
-          "version": "0.6.3",
-          "date": "2026-01-29T14:58:48Z",
-          "size": 12084696,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.3/artvier-ios-0.6.3-release.ipa"
-        },
-        {
-          "version": "0.6.2",
-          "date": "2026-01-12T13:21:20Z",
-          "size": 12115883,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.2/artvier-ios-0.6.2-release.ipa"
-        },
-        {
-          "version": "0.6.1",
-          "date": "2025-11-29T15:17:53Z",
-          "size": 11851069,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.1/artvier-ios-0.6.1-release.ipa"
-        },
-        {
-          "version": "0.6.0",
-          "date": "2025-10-10T05:11:32Z",
-          "size": 11781393,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.0/artvier-ios-0.6.0-release.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "screenshotURLs": [
-        "https://kerrinz.com/files/images/artvier/home_250210.jpg",
-        "https://kerrinz.com/files/images/artvier/profile_230227.jpg",
-        "https://kerrinz.com/files/images/artvier/user_detail_230227.jpg",
-        "https://kerrinz.com/files/images/artvier/illust_detail_230227.jpg"
-      ],
-      "version": "0.6.4",
-      "versionDate": "2026-04-08T13:58:14Z",
-      "size": 12099429,
-      "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.4/artvier-ios-0.6.4-release.ipa"
     }
   ],
   "news": []
