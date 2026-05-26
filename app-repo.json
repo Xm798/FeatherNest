@@ -152,12 +152,6 @@
       "tintColor": "289979",
       "versions": [
         {
-          "version": "2.8.0",
-          "date": "2025-10-23T02:13:17Z",
-          "size": 7224545,
-          "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.8.0/EhPanda.ipa"
-        },
-        {
           "version": "2.7.10",
           "date": "2024-12-21T03:22:53Z",
           "size": 7231227,
@@ -195,10 +189,10 @@
         "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Setting_EN_Light.png",
         "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/DomainFronting_EN_Light.png"
       ],
-      "version": "2.8.0",
-      "versionDate": "2025-10-23T02:13:17Z",
-      "size": 7224545,
-      "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.8.0/EhPanda.ipa"
+      "version": "2.7.10",
+      "versionDate": "2024-12-21T03:22:53Z",
+      "size": 7231227,
+      "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.10/EhPanda.ipa"
     }
   ],
   "news": []
