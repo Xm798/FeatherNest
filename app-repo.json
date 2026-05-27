@@ -103,46 +103,6 @@
       "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.4/artvier-ios-0.6.4-release.ipa"
     },
     {
-      "name": "Pixiv Viewer",
-      "bundleIdentifier": "org.eu.cocomi.pxvek",
-      "developerName": "asadahimeka",
-      "iconURL": "https://github.com/asadahimeka/pixiv-viewer-app/blob/main/ios/App/App/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png?raw=true",
-      "localizedDescription": "Yet Another Pixiv Illustration & Novel Viewer.",
-      "subtitle": "又一个 pixiv 第三方免登录 APP，提供 pixiv 的插画、动图、漫画和小说等作品的浏览，适配多端样式，提供多种浏览布局选择，支持免代理直连，支持自定义 API 与图床，支持 RefreshToken/OAuth/Cookie 方式登录。",
-      "tintColor": "848ef9",
-      "versions": [
-        {
-          "version": "1.32.2",
-          "date": "2026-03-22T08:34:08Z",
-          "size": 8604031,
-          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.32.2/pixiv-viewer_1.32.2_ios_unsigned.ipa"
-        },
-        {
-          "version": "1.25.5",
-          "date": "2025-05-12T03:46:44Z",
-          "size": 7021184,
-          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.25.5/pixiv-viewer_1.25.5_ios_unsigned.ipa"
-        },
-        {
-          "version": "1.0",
-          "date": "2023-03-17T18:48:51Z",
-          "size": 6497902,
-          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/1.0/%2BiPxve-1.17.5-ios-no-sign.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea1.jpg",
-        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea2.jpg",
-        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea3.jpg",
-        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea4.jpg"
-      ],
-      "version": "1.32.2",
-      "versionDate": "2026-03-22T08:34:08Z",
-      "size": 8604031,
-      "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.32.2/pixiv-viewer_1.32.2_ios_unsigned.ipa"
-    },
-    {
       "name": "EhPanda",
       "bundleIdentifier": "app.ehpanda",
       "developerName": "EhPanda Team",
@@ -193,6 +153,46 @@
       "versionDate": "2024-12-21T03:22:53Z",
       "size": 7231227,
       "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.10/EhPanda.ipa"
+    },
+    {
+      "name": "Pixiv Viewer",
+      "bundleIdentifier": "org.eu.cocomi.pxvek",
+      "developerName": "asadahimeka",
+      "iconURL": "https://github.com/asadahimeka/pixiv-viewer-app/blob/main/ios/App/App/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png?raw=true",
+      "localizedDescription": "Yet Another Pixiv Illustration & Novel Viewer.",
+      "subtitle": "又一个 pixiv 第三方免登录 APP，提供 pixiv 的插画、动图、漫画和小说等作品的浏览，适配多端样式，提供多种浏览布局选择，支持免代理直连，支持自定义 API 与图床，支持 RefreshToken/OAuth/Cookie 方式登录。",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "1.32.2",
+          "date": "2026-03-22T08:34:08Z",
+          "size": 8604031,
+          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.32.2/pixiv-viewer_1.32.2_ios_unsigned.ipa"
+        },
+        {
+          "version": "1.25.5",
+          "date": "2025-05-12T03:46:44Z",
+          "size": 7021184,
+          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.25.5/pixiv-viewer_1.25.5_ios_unsigned.ipa"
+        },
+        {
+          "version": "1.0",
+          "date": "2023-03-17T18:48:51Z",
+          "size": 6497902,
+          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/1.0/%2BiPxve-1.17.5-ios-no-sign.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea1.jpg",
+        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea2.jpg",
+        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea3.jpg",
+        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea4.jpg"
+      ],
+      "version": "1.32.2",
+      "versionDate": "2026-03-22T08:34:08Z",
+      "size": 8604031,
+      "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.32.2/pixiv-viewer_1.32.2_ios_unsigned.ipa"
     }
   ],
   "news": []
