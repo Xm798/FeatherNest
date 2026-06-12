@@ -5,52 +5,6 @@
   "website": "https://github.com/Xm798/FeatherNest",
   "apps": [
     {
-      "name": "cherry-studio",
-      "bundleIdentifier": "com.cherry-ai.cherry-studio-app",
-      "developerName": "CherryHQ",
-      "iconURL": "https://github.com/CherryHQ/cherry-studio-app/raw/main/src/assets/images/ios-splash-icon.png",
-      "localizedDescription": "🍒 Cherry Studio App —— The official mobile version of Cherry Studio, bringing powerful LLMs (Large Language Models) interaction to your iOS and Android devices.",
-      "subtitle": "🍒 This is the mobile version of Cherry Studio.",
-      "tintColor": "#ee6d64",
-      "versions": [
-        {
-          "version": "0.1.7",
-          "date": "2026-02-27T03:39:09Z",
-          "size": 40404345,
-          "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/v0.1.7/CherryStudio.v0.1.7.ipa"
-        },
-        {
-          "version": "0.1.6",
-          "date": "2026-01-08T02:55:33Z",
-          "size": 40566478,
-          "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/v0.1.6/CherryStudio.v0.1.6.ipa"
-        },
-        {
-          "version": "0.1.5",
-          "date": "2025-12-25T07:11:41Z",
-          "size": 38736049,
-          "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/v0.1.5/CherryStudio.v0.1.5.ipa"
-        },
-        {
-          "version": "0.1.4",
-          "date": "2025-12-07T08:22:10Z",
-          "size": 38698584,
-          "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/v0.1.4/CherryStudio.0.1.4.ipa"
-        },
-        {
-          "version": "0.1.3",
-          "date": "2025-11-25T04:22:43Z",
-          "size": 38284187,
-          "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/v0.1.3/CherryStudio.v0.1.3.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "0.1.7",
-      "versionDate": "2026-02-27T03:39:09Z",
-      "size": 40404345,
-      "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/v0.1.7/CherryStudio.v0.1.7.ipa"
-    },
-    {
       "name": "Pixiv Artvier",
       "bundleIdentifier": "org.augenblick.artvier",
       "developerName": "kerrinz",
@@ -101,6 +55,52 @@
       "versionDate": "2026-04-08T13:58:14Z",
       "size": 12099429,
       "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.4/artvier-ios-0.6.4-release.ipa"
+    },
+    {
+      "name": "cherry-studio",
+      "bundleIdentifier": "com.cherry-ai.cherry-studio-app",
+      "developerName": "CherryHQ",
+      "iconURL": "https://github.com/CherryHQ/cherry-studio-app/raw/main/src/assets/images/ios-splash-icon.png",
+      "localizedDescription": "🍒 Cherry Studio App —— The official mobile version of Cherry Studio, bringing powerful LLMs (Large Language Models) interaction to your iOS and Android devices.",
+      "subtitle": "🍒 This is the mobile version of Cherry Studio.",
+      "tintColor": "#ee6d64",
+      "versions": [
+        {
+          "version": "0.1.7",
+          "date": "2026-02-27T03:39:09Z",
+          "size": 40404345,
+          "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/v0.1.7/CherryStudio.v0.1.7.ipa"
+        },
+        {
+          "version": "0.1.6",
+          "date": "2026-01-08T02:55:33Z",
+          "size": 40566478,
+          "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/v0.1.6/CherryStudio.v0.1.6.ipa"
+        },
+        {
+          "version": "0.1.5",
+          "date": "2025-12-25T07:11:41Z",
+          "size": 38736049,
+          "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/v0.1.5/CherryStudio.v0.1.5.ipa"
+        },
+        {
+          "version": "0.1.4",
+          "date": "2025-12-07T08:22:10Z",
+          "size": 38698584,
+          "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/v0.1.4/CherryStudio.0.1.4.ipa"
+        },
+        {
+          "version": "0.1.3",
+          "date": "2025-11-25T04:22:43Z",
+          "size": 38284187,
+          "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/v0.1.3/CherryStudio.v0.1.3.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "0.1.7",
+      "versionDate": "2026-02-27T03:39:09Z",
+      "size": 40404345,
+      "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/v0.1.7/CherryStudio.v0.1.7.ipa"
     },
     {
       "name": "EhPanda",
