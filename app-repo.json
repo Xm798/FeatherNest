@@ -112,6 +112,12 @@
       "tintColor": "289979",
       "versions": [
         {
+          "version": "3.0.0",
+          "date": "2026-05-26T07:07:58Z",
+          "size": 8885834,
+          "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/3.0.0/EhPanda.ipa"
+        },
+        {
           "version": "2.7.10",
           "date": "2024-12-21T03:22:53Z",
           "size": 7231227,
@@ -149,10 +155,10 @@
         "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Setting_EN_Light.png",
         "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/DomainFronting_EN_Light.png"
       ],
-      "version": "2.7.10",
-      "versionDate": "2024-12-21T03:22:53Z",
-      "size": 7231227,
-      "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.10/EhPanda.ipa"
+      "version": "3.0.0",
+      "versionDate": "2026-05-26T07:07:58Z",
+      "size": 8885834,
+      "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/3.0.0/EhPanda.ipa"
     },
     {
       "name": "Pixiv Viewer",
