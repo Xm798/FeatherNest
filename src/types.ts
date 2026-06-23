@@ -47,6 +47,7 @@ export interface GitHubConfig {
   repo: string;
   assetPattern?: string;
   maxVersions?: number;
+  allowPrerelease?: boolean;
 }
 
 export interface AppConfig {

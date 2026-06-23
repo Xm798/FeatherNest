@@ -11,7 +11,7 @@ export class GitHubClient {
   }
 
   async fetchReleases(config: GitHubConfig): Promise<AppVersion[]> {
-    const { owner, repo, assetPattern = '*.ipa', maxVersions = 5 } = config;
+    const { owner, repo, assetPattern = '*.ipa', maxVersions = 5, allowPrerelease = false } = config;
 
     try {
       const { data: releases } = await this.octokit.repos.listReleases({
@@ -23,7 +23,7 @@ export class GitHubClient {
       const versions: AppVersion[] = [];
 
       for (const release of releases) {
-        if (release.draft || release.prerelease) {
+        if (release.draft || (release.prerelease && !allowPrerelease)) {
           continue;
         }
 

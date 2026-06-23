@@ -20,3 +20,4 @@ github:
   repo:
   assetPattern: "*.ipa"
   maxVersions: 5
+  # allowPrerelease: true  # Set to true to include pre-release versions

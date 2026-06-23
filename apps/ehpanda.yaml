@@ -28,3 +28,4 @@ github:
   repo: EhPanda
   assetPattern: "*.ipa"
   maxVersions: 5
+  allowPrerelease: true
