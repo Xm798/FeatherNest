@@ -5,58 +5,6 @@
   "website": "https://github.com/Xm798/FeatherNest",
   "apps": [
     {
-      "name": "Pixiv Artvier",
-      "bundleIdentifier": "org.augenblick.artvier",
-      "developerName": "kerrinz",
-      "iconURL": "https://github.com/kerrinz/pixiv-artvier/blob/main/assets/icon/ic_launcher.png?raw=true",
-      "localizedDescription": "A third-party app for pixiv. 一个第三方 pixiv App",
-      "subtitle": "A third-party app for pixiv",
-      "tintColor": "848ef9",
-      "versions": [
-        {
-          "version": "0.7.0",
-          "date": "2026-08-03T05:10:22Z",
-          "size": 12034803,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.7.0/app-release.ipa"
-        },
-        {
-          "version": "0.6.4",
-          "date": "2026-04-08T13:58:14Z",
-          "size": 12099429,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.4/artvier-ios-0.6.4-release.ipa"
-        },
-        {
-          "version": "0.6.3",
-          "date": "2026-01-29T14:58:48Z",
-          "size": 12084696,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.3/artvier-ios-0.6.3-release.ipa"
-        },
-        {
-          "version": "0.6.2",
-          "date": "2026-01-12T13:21:20Z",
-          "size": 12115883,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.2/artvier-ios-0.6.2-release.ipa"
-        },
-        {
-          "version": "0.6.1",
-          "date": "2025-11-29T15:17:53Z",
-          "size": 11851069,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.1/artvier-ios-0.6.1-release.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "screenshotURLs": [
-        "https://kerrinz.com/files/images/artvier/home_250210.jpg",
-        "https://kerrinz.com/files/images/artvier/profile_230227.jpg",
-        "https://kerrinz.com/files/images/artvier/user_detail_230227.jpg",
-        "https://kerrinz.com/files/images/artvier/illust_detail_230227.jpg"
-      ],
-      "version": "0.7.0",
-      "versionDate": "2026-08-03T05:10:22Z",
-      "size": 12034803,
-      "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.7.0/app-release.ipa"
-    },
-    {
       "name": "Pixiv Viewer",
       "bundleIdentifier": "org.eu.cocomi.pxvek",
       "developerName": "asadahimeka",
@@ -153,6 +101,58 @@
       "versionDate": "2026-07-20T12:12:04Z",
       "size": 7352364,
       "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.8.1/EhPanda.ipa"
+    },
+    {
+      "name": "Pixiv Artvier",
+      "bundleIdentifier": "org.augenblick.artvier",
+      "developerName": "kerrinz",
+      "iconURL": "https://github.com/kerrinz/pixiv-artvier/blob/main/assets/icon/ic_launcher.png?raw=true",
+      "localizedDescription": "A third-party app for pixiv. 一个第三方 pixiv App",
+      "subtitle": "A third-party app for pixiv",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "0.7.0",
+          "date": "2026-08-03T05:10:22Z",
+          "size": 12034803,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.7.0/app-release.ipa"
+        },
+        {
+          "version": "0.6.4",
+          "date": "2026-04-08T13:58:14Z",
+          "size": 12099429,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.4/artvier-ios-0.6.4-release.ipa"
+        },
+        {
+          "version": "0.6.3",
+          "date": "2026-01-29T14:58:48Z",
+          "size": 12084696,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.3/artvier-ios-0.6.3-release.ipa"
+        },
+        {
+          "version": "0.6.2",
+          "date": "2026-01-12T13:21:20Z",
+          "size": 12115883,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.2/artvier-ios-0.6.2-release.ipa"
+        },
+        {
+          "version": "0.6.1",
+          "date": "2025-11-29T15:17:53Z",
+          "size": 11851069,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.1/artvier-ios-0.6.1-release.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://kerrinz.com/files/images/artvier/home_250210.jpg",
+        "https://kerrinz.com/files/images/artvier/profile_230227.jpg",
+        "https://kerrinz.com/files/images/artvier/user_detail_230227.jpg",
+        "https://kerrinz.com/files/images/artvier/illust_detail_230227.jpg"
+      ],
+      "version": "0.7.0",
+      "versionDate": "2026-08-03T05:10:22Z",
+      "size": 12034803,
+      "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.7.0/app-release.ipa"
     },
     {
       "name": "cherry-studio",
