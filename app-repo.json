@@ -112,12 +112,6 @@
           "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.8.1/EhPanda.ipa"
         },
         {
-          "version": "3.0.0",
-          "date": "2026-07-03T01:17:08Z",
-          "size": 9556493,
-          "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/3.0.0/EhPanda.ipa"
-        },
-        {
           "version": "2.7.10",
           "date": "2024-12-21T03:22:53Z",
           "size": 7231227,
@@ -134,6 +128,12 @@
           "date": "2024-11-11T05:44:32Z",
           "size": 7193274,
           "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.8/EhPanda.ipa"
+        },
+        {
+          "version": "2.7.7",
+          "date": "2024-10-28T16:28:28Z",
+          "size": 6870884,
+          "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.7/EhPanda.ipa"
         }
       ],
       "appPermissions": {},
