@@ -70,12 +70,6 @@
           "date": "2026-02-27T03:39:09Z",
           "size": 40404345,
           "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/legacy-v0.1.7/CherryStudio.v0.1.7.ipa"
-        },
-        {
-          "version": "legacy-v0.1.6",
-          "date": "2026-01-08T02:55:33Z",
-          "size": 40566478,
-          "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/legacy-v0.1.6/CherryStudio.v0.1.6.ipa"
         }
       ],
       "appPermissions": {},
