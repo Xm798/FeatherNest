@@ -57,28 +57,6 @@
       "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.7.0/app-release.ipa"
     },
     {
-      "name": "cherry-studio",
-      "bundleIdentifier": "com.cherry-ai.cherry-studio-app",
-      "developerName": "CherryHQ",
-      "iconURL": "https://github.com/CherryHQ/cherry-studio-app/raw/main/src/assets/images/ios-splash-icon.png",
-      "localizedDescription": "🍒 Cherry Studio App —— The official mobile version of Cherry Studio, bringing powerful LLMs (Large Language Models) interaction to your iOS and Android devices.",
-      "subtitle": "🍒 This is the mobile version of Cherry Studio.",
-      "tintColor": "#ee6d64",
-      "versions": [
-        {
-          "version": "legacy-v0.1.7",
-          "date": "2026-02-27T03:39:09Z",
-          "size": 40404345,
-          "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/legacy-v0.1.7/CherryStudio.v0.1.7.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "legacy-v0.1.7",
-      "versionDate": "2026-02-27T03:39:09Z",
-      "size": 40404345,
-      "downloadURL": "https://github.com/CherryHQ/cherry-studio-app/releases/download/legacy-v0.1.7/CherryStudio.v0.1.7.ipa"
-    },
-    {
       "name": "Pixiv Viewer",
       "bundleIdentifier": "org.eu.cocomi.pxvek",
       "developerName": "asadahimeka",
