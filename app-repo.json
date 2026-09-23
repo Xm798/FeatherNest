@@ -57,6 +57,80 @@
       "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.7.0/app-release.ipa"
     },
     {
+      "name": "FluxDO",
+      "bundleIdentifier": "com.github.lingyan000.fluxdo",
+      "developerName": "lingyan000",
+      "iconURL": "https://lingyan000.github.io/fluxdo/icon.png",
+      "localizedDescription": "A third-party client for LINUX DO community.",
+      "subtitle": "一个 Linux.do 第三方客户端",
+      "tintColor": "ffb003",
+      "versions": [
+        {
+          "version": "0.2.28",
+          "date": "2026-09-04T14:08:17Z",
+          "size": 54824957,
+          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.28/fluxdo-unsigned.ipa"
+        },
+        {
+          "version": "0.2.27",
+          "date": "2026-08-21T07:40:24Z",
+          "size": 54730095,
+          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.27/fluxdo-unsigned.ipa"
+        },
+        {
+          "version": "0.2.26",
+          "date": "2026-08-07T11:06:16Z",
+          "size": 54451284,
+          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.26/fluxdo-unsigned.ipa"
+        },
+        {
+          "version": "0.2.25",
+          "date": "2026-07-24T13:44:56Z",
+          "size": 52740984,
+          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.25/fluxdo-unsigned.ipa"
+        },
+        {
+          "version": "0.2.24",
+          "date": "2026-07-17T13:29:42Z",
+          "size": 53484260,
+          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.24/fluxdo-unsigned.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "0.2.28",
+      "versionDate": "2026-09-04T14:08:17Z",
+      "size": 54824957,
+      "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.28/fluxdo-unsigned.ipa"
+    },
+    {
+      "name": "AirCard",
+      "bundleIdentifier": "com.mak5er.aircard",
+      "developerName": "Mak5er",
+      "iconURL": "https://github.com/Mak5er/AirCard-iOS/raw/main/ios-app/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+      "localizedDescription": "Apple Wallet card skins, lock screen passcode themes, and PosterBoard wallpapers directly on iOS 27+, without a jailbreak.",
+      "subtitle": "Wallet card skins and passcode themes on iOS 27+.",
+      "tintColor": "5b24da",
+      "versions": [
+        {
+          "version": "1.3",
+          "date": "2026-09-20T02:08:32Z",
+          "size": 4452235,
+          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3/AirCard-iOS.ipa"
+        },
+        {
+          "version": "1.2.5",
+          "date": "2026-09-19T22:19:08Z",
+          "size": 4180858,
+          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.2.5/AirCard-iOS.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.3",
+      "versionDate": "2026-09-20T02:08:32Z",
+      "size": 4452235,
+      "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3/AirCard-iOS.ipa"
+    },
+    {
       "name": "Pixiv Viewer",
       "bundleIdentifier": "org.eu.cocomi.pxvek",
       "developerName": "asadahimeka",
