@@ -1,0 +1,15 @@
+# App Basic Information
+name: FluxDO
+bundleIdentifier: com.github.lingyan000.fluxdo
+developerName: lingyan000
+iconURL: https://lingyan000.github.io/fluxdo/icon.png
+localizedDescription: "A third-party client for LINUX DO community."
+subtitle: "一个 Linux.do 第三方客户端"
+tintColor: "ffb003"
+
+# GitHub Release Configuration
+github:
+  owner: Lingyan000
+  repo: fluxdo
+  assetPattern: "*.ipa"
+  maxVersions: 5

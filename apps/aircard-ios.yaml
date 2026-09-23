@@ -1,0 +1,15 @@
+# App Basic Information
+name: AirCard
+bundleIdentifier: com.mak5er.aircard
+developerName: Mak5er
+iconURL: https://github.com/Mak5er/AirCard-iOS/raw/main/ios-app/Assets.xcassets/AppIcon.appiconset/AppIcon.png
+localizedDescription: "Apple Wallet card skins, lock screen passcode themes, and PosterBoard wallpapers directly on iOS 27+, without a jailbreak."
+subtitle: "Wallet card skins and passcode themes on iOS 27+."
+tintColor: "5b24da"
+
+# GitHub Release Configuration
+github:
+  owner: Mak5er
+  repo: AirCard-iOS
+  assetPattern: "*.ipa"
+  maxVersions: 5
