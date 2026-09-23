@@ -5,104 +5,6 @@
   "website": "https://github.com/Xm798/FeatherNest",
   "apps": [
     {
-      "name": "Pixiv Artvier",
-      "bundleIdentifier": "org.augenblick.artvier",
-      "developerName": "kerrinz",
-      "iconURL": "https://github.com/kerrinz/pixiv-artvier/blob/main/assets/icon/ic_launcher.png?raw=true",
-      "localizedDescription": "A third-party app for pixiv. 一个第三方 pixiv App",
-      "subtitle": "A third-party app for pixiv",
-      "tintColor": "848ef9",
-      "versions": [
-        {
-          "version": "0.7.0",
-          "date": "2026-08-03T05:10:22Z",
-          "size": 12034803,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.7.0/app-release.ipa"
-        },
-        {
-          "version": "0.6.4",
-          "date": "2026-04-08T13:58:14Z",
-          "size": 12099429,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.4/artvier-ios-0.6.4-release.ipa"
-        },
-        {
-          "version": "0.6.3",
-          "date": "2026-01-29T14:58:48Z",
-          "size": 12084696,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.3/artvier-ios-0.6.3-release.ipa"
-        },
-        {
-          "version": "0.6.2",
-          "date": "2026-01-12T13:21:20Z",
-          "size": 12115883,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.2/artvier-ios-0.6.2-release.ipa"
-        },
-        {
-          "version": "0.6.1",
-          "date": "2025-11-29T15:17:53Z",
-          "size": 11851069,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.1/artvier-ios-0.6.1-release.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "screenshotURLs": [
-        "https://kerrinz.com/files/images/artvier/home_250210.jpg",
-        "https://kerrinz.com/files/images/artvier/profile_230227.jpg",
-        "https://kerrinz.com/files/images/artvier/user_detail_230227.jpg",
-        "https://kerrinz.com/files/images/artvier/illust_detail_230227.jpg"
-      ],
-      "version": "0.7.0",
-      "versionDate": "2026-08-03T05:10:22Z",
-      "size": 12034803,
-      "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.7.0/app-release.ipa"
-    },
-    {
-      "name": "FluxDO",
-      "bundleIdentifier": "com.github.lingyan000.fluxdo",
-      "developerName": "lingyan000",
-      "iconURL": "https://lingyan000.github.io/fluxdo/icon.png",
-      "localizedDescription": "A third-party client for LINUX DO community.",
-      "subtitle": "一个 Linux.do 第三方客户端",
-      "tintColor": "ffb003",
-      "versions": [
-        {
-          "version": "0.2.28",
-          "date": "2026-09-04T14:08:17Z",
-          "size": 54824957,
-          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.28/fluxdo-unsigned.ipa"
-        },
-        {
-          "version": "0.2.27",
-          "date": "2026-08-21T07:40:24Z",
-          "size": 54730095,
-          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.27/fluxdo-unsigned.ipa"
-        },
-        {
-          "version": "0.2.26",
-          "date": "2026-08-07T11:06:16Z",
-          "size": 54451284,
-          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.26/fluxdo-unsigned.ipa"
-        },
-        {
-          "version": "0.2.25",
-          "date": "2026-07-24T13:44:56Z",
-          "size": 52740984,
-          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.25/fluxdo-unsigned.ipa"
-        },
-        {
-          "version": "0.2.24",
-          "date": "2026-07-17T13:29:42Z",
-          "size": 53484260,
-          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.24/fluxdo-unsigned.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "0.2.28",
-      "versionDate": "2026-09-04T14:08:17Z",
-      "size": 54824957,
-      "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.28/fluxdo-unsigned.ipa"
-    },
-    {
       "name": "AirCard",
       "bundleIdentifier": "com.mak5er.aircard",
       "developerName": "Mak5er",
@@ -227,6 +129,104 @@
       "versionDate": "2026-08-20T02:37:46Z",
       "size": 10143094,
       "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/3.0.0/EhPanda.ipa"
+    },
+    {
+      "name": "FluxDO",
+      "bundleIdentifier": "com.github.lingyan000.fluxdo",
+      "developerName": "lingyan000",
+      "iconURL": "https://lingyan000.github.io/fluxdo/icon.png",
+      "localizedDescription": "A third-party client for LINUX DO community.",
+      "subtitle": "一个 Linux.do 第三方客户端",
+      "tintColor": "ffb003",
+      "versions": [
+        {
+          "version": "0.2.28",
+          "date": "2026-09-04T14:08:17Z",
+          "size": 54824957,
+          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.28/fluxdo-unsigned.ipa"
+        },
+        {
+          "version": "0.2.27",
+          "date": "2026-08-21T07:40:24Z",
+          "size": 54730095,
+          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.27/fluxdo-unsigned.ipa"
+        },
+        {
+          "version": "0.2.26",
+          "date": "2026-08-07T11:06:16Z",
+          "size": 54451284,
+          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.26/fluxdo-unsigned.ipa"
+        },
+        {
+          "version": "0.2.25",
+          "date": "2026-07-24T13:44:56Z",
+          "size": 52740984,
+          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.25/fluxdo-unsigned.ipa"
+        },
+        {
+          "version": "0.2.24",
+          "date": "2026-07-17T13:29:42Z",
+          "size": 53484260,
+          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.24/fluxdo-unsigned.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "0.2.28",
+      "versionDate": "2026-09-04T14:08:17Z",
+      "size": 54824957,
+      "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.28/fluxdo-unsigned.ipa"
+    },
+    {
+      "name": "Pixiv Artvier",
+      "bundleIdentifier": "org.augenblick.artvier",
+      "developerName": "kerrinz",
+      "iconURL": "https://github.com/kerrinz/pixiv-artvier/blob/main/assets/icon/ic_launcher.png?raw=true",
+      "localizedDescription": "A third-party app for pixiv. 一个第三方 pixiv App",
+      "subtitle": "A third-party app for pixiv",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "0.7.0",
+          "date": "2026-08-03T05:10:22Z",
+          "size": 12034803,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.7.0/app-release.ipa"
+        },
+        {
+          "version": "0.6.4",
+          "date": "2026-04-08T13:58:14Z",
+          "size": 12099429,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.4/artvier-ios-0.6.4-release.ipa"
+        },
+        {
+          "version": "0.6.3",
+          "date": "2026-01-29T14:58:48Z",
+          "size": 12084696,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.3/artvier-ios-0.6.3-release.ipa"
+        },
+        {
+          "version": "0.6.2",
+          "date": "2026-01-12T13:21:20Z",
+          "size": 12115883,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.2/artvier-ios-0.6.2-release.ipa"
+        },
+        {
+          "version": "0.6.1",
+          "date": "2025-11-29T15:17:53Z",
+          "size": 11851069,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.1/artvier-ios-0.6.1-release.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://kerrinz.com/files/images/artvier/home_250210.jpg",
+        "https://kerrinz.com/files/images/artvier/profile_230227.jpg",
+        "https://kerrinz.com/files/images/artvier/user_detail_230227.jpg",
+        "https://kerrinz.com/files/images/artvier/illust_detail_230227.jpg"
+      ],
+      "version": "0.7.0",
+      "versionDate": "2026-08-03T05:10:22Z",
+      "size": 12034803,
+      "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.7.0/app-release.ipa"
     }
   ],
   "news": []
