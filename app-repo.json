@@ -42,6 +42,12 @@
       "tintColor": "848ef9",
       "versions": [
         {
+          "version": "1.37.5",
+          "date": "2026-09-24T07:40:13Z",
+          "size": 9934798,
+          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.37.5/pixiv-viewer_1.37.5_ios_unsigned.ipa"
+        },
+        {
           "version": "1.32.2",
           "date": "2026-03-22T08:34:08Z",
           "size": 8604031,
@@ -67,10 +73,10 @@
         "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea3.jpg",
         "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea4.jpg"
       ],
-      "version": "1.32.2",
-      "versionDate": "2026-03-22T08:34:08Z",
-      "size": 8604031,
-      "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.32.2/pixiv-viewer_1.32.2_ios_unsigned.ipa"
+      "version": "1.37.5",
+      "versionDate": "2026-09-24T07:40:13Z",
+      "size": 9934798,
+      "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.37.5/pixiv-viewer_1.37.5_ios_unsigned.ipa"
     },
     {
       "name": "EhPanda",
