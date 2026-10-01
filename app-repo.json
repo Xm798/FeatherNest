@@ -42,6 +42,12 @@
       "tintColor": "848ef9",
       "versions": [
         {
+          "version": "1.37.6",
+          "date": "2026-10-01T13:09:51Z",
+          "size": 9950182,
+          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.37.6/pixiv-viewer_1.37.6_ios_unsigned.ipa"
+        },
+        {
           "version": "1.37.5",
           "date": "2026-09-24T07:40:13Z",
           "size": 9934798,
@@ -58,12 +64,6 @@
           "date": "2025-05-12T03:46:44Z",
           "size": 7021184,
           "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.25.5/pixiv-viewer_1.25.5_ios_unsigned.ipa"
-        },
-        {
-          "version": "1.0",
-          "date": "2023-03-17T18:48:51Z",
-          "size": 6497902,
-          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/1.0/%2BiPxve-1.17.5-ios-no-sign.ipa"
         }
       ],
       "appPermissions": {},
@@ -73,10 +73,10 @@
         "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea3.jpg",
         "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea4.jpg"
       ],
-      "version": "1.37.5",
-      "versionDate": "2026-09-24T07:40:13Z",
-      "size": 9934798,
-      "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.37.5/pixiv-viewer_1.37.5_ios_unsigned.ipa"
+      "version": "1.37.6",
+      "versionDate": "2026-10-01T13:09:51Z",
+      "size": 9950182,
+      "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.37.6/pixiv-viewer_1.37.6_ios_unsigned.ipa"
     },
     {
       "name": "EhPanda",
