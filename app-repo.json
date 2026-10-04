@@ -14,6 +14,12 @@
       "tintColor": "5b24da",
       "versions": [
         {
+          "version": "1.3.2",
+          "date": "2026-10-04T12:22:53Z",
+          "size": 4638147,
+          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.2/AirCard-iOS.ipa"
+        },
+        {
           "version": "1.3.1",
           "date": "2026-10-01T23:01:18Z",
           "size": 4597510,
@@ -33,10 +39,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "1.3.1",
-      "versionDate": "2026-10-01T23:01:18Z",
-      "size": 4597510,
-      "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.1/AirCard-iOS.ipa"
+      "version": "1.3.2",
+      "versionDate": "2026-10-04T12:22:53Z",
+      "size": 4638147,
+      "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.2/AirCard-iOS.ipa"
     },
     {
       "name": "Pixiv Viewer",
