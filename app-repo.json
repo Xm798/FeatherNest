@@ -204,6 +204,12 @@
       "tintColor": "848ef9",
       "versions": [
         {
+          "version": "0.8.2",
+          "date": "2026-10-18T14:25:29Z",
+          "size": 13244540,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.8.2/app-release.ipa"
+        },
+        {
           "version": "0.8.1",
           "date": "2026-10-15T14:33:53Z",
           "size": 13212951,
@@ -226,12 +232,6 @@
           "date": "2026-04-08T13:58:14Z",
           "size": 12099429,
           "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.4/artvier-ios-0.6.4-release.ipa"
-        },
-        {
-          "version": "0.6.3",
-          "date": "2026-01-29T14:58:48Z",
-          "size": 12084696,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.3/artvier-ios-0.6.3-release.ipa"
         }
       ],
       "appPermissions": {},
@@ -241,10 +241,10 @@
         "https://kerrinz.com/files/images/artvier/user_detail_230227.jpg",
         "https://kerrinz.com/files/images/artvier/illust_detail_230227.jpg"
       ],
-      "version": "0.8.1",
-      "versionDate": "2026-10-15T14:33:53Z",
-      "size": 13212951,
-      "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.8.1/app-release.ipa"
+      "version": "0.8.2",
+      "versionDate": "2026-10-18T14:25:29Z",
+      "size": 13244540,
+      "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.8.2/app-release.ipa"
     }
   ],
   "news": []
