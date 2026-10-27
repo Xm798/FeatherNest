@@ -1,0 +1,19 @@
+# App Basic Information
+name: AvPlay
+bundleIdentifier: com.javdb.avplay
+developerName: anonymousjav
+iconURL: https://github.com/anonymousjav/AvPlayRelease/raw/main/resources/logo.png
+localizedDescription: "一个优雅的开车 App，覆盖日本、中文、欧美、动漫等资源，支持在线观看与内置播放器。仅供研究与学习交流使用。"
+subtitle: 一个优雅的开车 App · 全平台覆盖
+tintColor: "ea7233"
+
+screenshotURLs:
+  - https://github.com/anonymousjav/AvPlayRelease/raw/main/resources/preview.png
+
+appPermissions: {}
+
+github:
+  owner: anonymousjav
+  repo: AvPlayRelease
+  assetPattern: "*.ipa"
+  maxVersions: 5
