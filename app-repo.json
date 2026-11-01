@@ -51,62 +51,96 @@
       "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.29/fluxdo-unsigned.ipa"
     },
     {
-      "name": "EhPanda",
-      "bundleIdentifier": "app.ehpanda",
-      "developerName": "EhPanda Team",
-      "iconURL": "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/appicon/appicon-512.png",
-      "localizedDescription": "EhPanda is an unofficial app for iOS and iPadOS that allows users to access and explore adult manga and doujinshi from E-Hentai.\nWith a user-friendly interface, powerful search features, and a vast collection of content, it offers a personalized library and an immersive reading experience.\nNote: EhPanda is not affiliated with or endorsed by E-Hentai.",
-      "subtitle": "Unleash your passion for E-Hentai with EhPanda.",
-      "tintColor": "289979",
+      "name": "AirCard",
+      "bundleIdentifier": "com.mak5er.aircard",
+      "developerName": "Mak5er",
+      "iconURL": "https://github.com/Mak5er/AirCard-iOS/raw/main/ios-app/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+      "localizedDescription": "Apple Wallet card skins, lock screen passcode themes, and PosterBoard wallpapers directly on iOS 27+, without a jailbreak.",
+      "subtitle": "Wallet card skins and passcode themes on iOS 27+.",
+      "tintColor": "5b24da",
       "versions": [
         {
-          "version": "3.0.0",
-          "date": "2026-08-20T02:37:46Z",
-          "size": 19041995,
-          "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/3.0.0/EhPanda.ipa"
+          "version": "1.3.2",
+          "date": "2026-10-04T12:22:53Z",
+          "size": 4638147,
+          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.2/AirCard-iOS.ipa"
         },
         {
-          "version": "2.8.1",
-          "date": "2026-07-20T12:12:04Z",
-          "size": 7352364,
-          "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.8.1/EhPanda.ipa"
+          "version": "1.3.1",
+          "date": "2026-10-01T23:01:18Z",
+          "size": 4597510,
+          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.1/AirCard-iOS.ipa"
         },
         {
-          "version": "2.7.10",
-          "date": "2024-12-21T03:22:53Z",
-          "size": 7231227,
-          "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.10/EhPanda.ipa"
+          "version": "1.3",
+          "date": "2026-09-20T02:08:32Z",
+          "size": 4452235,
+          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3/AirCard-iOS.ipa"
         },
         {
-          "version": "2.7.9",
-          "date": "2024-12-15T05:32:14Z",
-          "size": 7231285,
-          "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.9/EhPanda.ipa"
+          "version": "1.2.5",
+          "date": "2026-09-19T22:19:08Z",
+          "size": 4180858,
+          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.2.5/AirCard-iOS.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "1.3.2",
+      "versionDate": "2026-10-04T12:22:53Z",
+      "size": 4638147,
+      "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.2/AirCard-iOS.ipa"
+    },
+    {
+      "name": "Pixiv Artvier",
+      "bundleIdentifier": "org.augenblick.artvier",
+      "developerName": "kerrinz",
+      "iconURL": "https://github.com/kerrinz/pixiv-artvier/blob/main/assets/icon/ic_launcher.png?raw=true",
+      "localizedDescription": "A third-party app for pixiv. 一个第三方 pixiv App",
+      "subtitle": "A third-party app for pixiv",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "0.8.2",
+          "date": "2026-10-18T14:25:29Z",
+          "size": 13244540,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.8.2/app-release.ipa"
         },
         {
-          "version": "2.7.8",
-          "date": "2024-11-11T05:44:32Z",
-          "size": 7193274,
-          "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.8/EhPanda.ipa"
+          "version": "0.8.1",
+          "date": "2026-10-15T14:33:53Z",
+          "size": 13212951,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.8.1/app-release.ipa"
+        },
+        {
+          "version": "0.8.0",
+          "date": "2026-10-13T16:03:03Z",
+          "size": 13214046,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.8.0/app-release.ipa"
+        },
+        {
+          "version": "0.7.0",
+          "date": "2026-08-03T05:10:22Z",
+          "size": 12034803,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.7.0/app-release.ipa"
+        },
+        {
+          "version": "0.6.4",
+          "date": "2026-04-08T13:58:14Z",
+          "size": 12099429,
+          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.4/artvier-ios-0.6.4-release.ipa"
         }
       ],
       "appPermissions": {},
       "screenshotURLs": [
-        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Home_EN_Light.png",
-        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/SlideMenu_EN_Light.png",
-        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Detail_EN_Light.png",
-        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Comment_EN_Light.png",
-        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Archive_EN_Light.png",
-        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Torrent_EN_Light.png",
-        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/EhSetting_EN_Light.png",
-        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Filter_EN_Light.png",
-        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Setting_EN_Light.png",
-        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/DomainFronting_EN_Light.png"
+        "https://kerrinz.com/files/images/artvier/home_250210.jpg",
+        "https://kerrinz.com/files/images/artvier/profile_230227.jpg",
+        "https://kerrinz.com/files/images/artvier/user_detail_230227.jpg",
+        "https://kerrinz.com/files/images/artvier/illust_detail_230227.jpg"
       ],
-      "version": "3.0.0",
-      "versionDate": "2026-08-20T02:37:46Z",
-      "size": 19041995,
-      "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/3.0.0/EhPanda.ipa"
+      "version": "0.8.2",
+      "versionDate": "2026-10-18T14:25:29Z",
+      "size": 13244540,
+      "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.8.2/app-release.ipa"
     },
     {
       "name": "Pixiv Viewer",
@@ -204,96 +238,62 @@
       "downloadURL": "https://github.com/anonymousjav/AvPlayRelease/releases/download/v2.2.0/AvPlay-2.2.0.ipa"
     },
     {
-      "name": "AirCard",
-      "bundleIdentifier": "com.mak5er.aircard",
-      "developerName": "Mak5er",
-      "iconURL": "https://github.com/Mak5er/AirCard-iOS/raw/main/ios-app/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
-      "localizedDescription": "Apple Wallet card skins, lock screen passcode themes, and PosterBoard wallpapers directly on iOS 27+, without a jailbreak.",
-      "subtitle": "Wallet card skins and passcode themes on iOS 27+.",
-      "tintColor": "5b24da",
+      "name": "EhPanda",
+      "bundleIdentifier": "app.ehpanda",
+      "developerName": "EhPanda Team",
+      "iconURL": "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/appicon/appicon-512.png",
+      "localizedDescription": "EhPanda is an unofficial app for iOS and iPadOS that allows users to access and explore adult manga and doujinshi from E-Hentai.\nWith a user-friendly interface, powerful search features, and a vast collection of content, it offers a personalized library and an immersive reading experience.\nNote: EhPanda is not affiliated with or endorsed by E-Hentai.",
+      "subtitle": "Unleash your passion for E-Hentai with EhPanda.",
+      "tintColor": "289979",
       "versions": [
         {
-          "version": "1.3.2",
-          "date": "2026-10-04T12:22:53Z",
-          "size": 4638147,
-          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.2/AirCard-iOS.ipa"
+          "version": "3.0.0",
+          "date": "2026-08-20T02:37:46Z",
+          "size": 19041995,
+          "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/3.0.0/EhPanda.ipa"
         },
         {
-          "version": "1.3.1",
-          "date": "2026-10-01T23:01:18Z",
-          "size": 4597510,
-          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.1/AirCard-iOS.ipa"
+          "version": "2.8.1",
+          "date": "2026-07-20T12:12:04Z",
+          "size": 7352364,
+          "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.8.1/EhPanda.ipa"
         },
         {
-          "version": "1.3",
-          "date": "2026-09-20T02:08:32Z",
-          "size": 4452235,
-          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3/AirCard-iOS.ipa"
+          "version": "2.7.10",
+          "date": "2024-12-21T03:22:53Z",
+          "size": 7231227,
+          "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.10/EhPanda.ipa"
         },
         {
-          "version": "1.2.5",
-          "date": "2026-09-19T22:19:08Z",
-          "size": 4180858,
-          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.2.5/AirCard-iOS.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "1.3.2",
-      "versionDate": "2026-10-04T12:22:53Z",
-      "size": 4638147,
-      "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.2/AirCard-iOS.ipa"
-    },
-    {
-      "name": "Pixiv Artvier",
-      "bundleIdentifier": "org.augenblick.artvier",
-      "developerName": "kerrinz",
-      "iconURL": "https://github.com/kerrinz/pixiv-artvier/blob/main/assets/icon/ic_launcher.png?raw=true",
-      "localizedDescription": "A third-party app for pixiv. 一个第三方 pixiv App",
-      "subtitle": "A third-party app for pixiv",
-      "tintColor": "848ef9",
-      "versions": [
-        {
-          "version": "0.8.2",
-          "date": "2026-10-18T14:25:29Z",
-          "size": 13244540,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.8.2/app-release.ipa"
+          "version": "2.7.9",
+          "date": "2024-12-15T05:32:14Z",
+          "size": 7231285,
+          "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.9/EhPanda.ipa"
         },
         {
-          "version": "0.8.1",
-          "date": "2026-10-15T14:33:53Z",
-          "size": 13212951,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.8.1/app-release.ipa"
-        },
-        {
-          "version": "0.8.0",
-          "date": "2026-10-13T16:03:03Z",
-          "size": 13214046,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.8.0/app-release.ipa"
-        },
-        {
-          "version": "0.7.0",
-          "date": "2026-08-03T05:10:22Z",
-          "size": 12034803,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.7.0/app-release.ipa"
-        },
-        {
-          "version": "0.6.4",
-          "date": "2026-04-08T13:58:14Z",
-          "size": 12099429,
-          "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.6.4/artvier-ios-0.6.4-release.ipa"
+          "version": "2.7.8",
+          "date": "2024-11-11T05:44:32Z",
+          "size": 7193274,
+          "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.8/EhPanda.ipa"
         }
       ],
       "appPermissions": {},
       "screenshotURLs": [
-        "https://kerrinz.com/files/images/artvier/home_250210.jpg",
-        "https://kerrinz.com/files/images/artvier/profile_230227.jpg",
-        "https://kerrinz.com/files/images/artvier/user_detail_230227.jpg",
-        "https://kerrinz.com/files/images/artvier/illust_detail_230227.jpg"
+        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Home_EN_Light.png",
+        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/SlideMenu_EN_Light.png",
+        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Detail_EN_Light.png",
+        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Comment_EN_Light.png",
+        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Archive_EN_Light.png",
+        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Torrent_EN_Light.png",
+        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/EhSetting_EN_Light.png",
+        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Filter_EN_Light.png",
+        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Setting_EN_Light.png",
+        "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/DomainFronting_EN_Light.png"
       ],
-      "version": "0.8.2",
-      "versionDate": "2026-10-18T14:25:29Z",
-      "size": 13244540,
-      "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.8.2/app-release.ipa"
+      "version": "3.0.0",
+      "versionDate": "2026-08-20T02:37:46Z",
+      "size": 19041995,
+      "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/3.0.0/EhPanda.ipa"
     }
   ],
   "news": []
