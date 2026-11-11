@@ -101,9 +101,9 @@
       "versions": [
         {
           "version": "3.0.0",
-          "date": "2026-08-20T02:37:46Z",
-          "size": 19041995,
-          "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/3.0.0/EhPanda.ipa"
+          "date": "2026-11-11T14:08:56Z",
+          "size": 18819632,
+          "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/3.0.0/EhPanda-Beta.ipa"
         },
         {
           "version": "2.8.1",
@@ -144,9 +144,9 @@
         "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/DomainFronting_EN_Light.png"
       ],
       "version": "3.0.0",
-      "versionDate": "2026-08-20T02:37:46Z",
-      "size": 19041995,
-      "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/3.0.0/EhPanda.ipa"
+      "versionDate": "2026-11-11T14:08:56Z",
+      "size": 18819632,
+      "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/3.0.0/EhPanda-Beta.ipa"
     },
     {
       "name": "FluxDO",
