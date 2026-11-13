@@ -158,6 +158,12 @@
       "tintColor": "ffb003",
       "versions": [
         {
+          "version": "0.2.30",
+          "date": "2026-11-13T08:38:12Z",
+          "size": 41377170,
+          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.30/fluxdo-unsigned.ipa"
+        },
+        {
           "version": "0.2.29",
           "date": "2026-10-20T08:49:53Z",
           "size": 55505719,
@@ -180,19 +186,13 @@
           "date": "2026-08-07T11:06:16Z",
           "size": 54451284,
           "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.26/fluxdo-unsigned.ipa"
-        },
-        {
-          "version": "0.2.25",
-          "date": "2026-07-24T13:44:56Z",
-          "size": 52740984,
-          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.25/fluxdo-unsigned.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "0.2.29",
-      "versionDate": "2026-10-20T08:49:53Z",
-      "size": 55505719,
-      "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.29/fluxdo-unsigned.ipa"
+      "version": "0.2.30",
+      "versionDate": "2026-11-13T08:38:12Z",
+      "size": 41377170,
+      "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.30/fluxdo-unsigned.ipa"
     },
     {
       "name": "AvPlay",
@@ -203,6 +203,12 @@
       "subtitle": "一个优雅的开车 App · 全平台覆盖",
       "tintColor": "ea7233",
       "versions": [
+        {
+          "version": "2.2.2",
+          "date": "2026-11-13T13:11:00Z",
+          "size": 23878716,
+          "downloadURL": "https://github.com/anonymousjav/AvPlayRelease/releases/download/v2.2.2/AvPlay-2.2.2.ipa"
+        },
         {
           "version": "2.2.0",
           "date": "2026-10-23T09:02:21Z",
@@ -226,22 +232,16 @@
           "date": "2026-09-30T17:01:44Z",
           "size": 22703538,
           "downloadURL": "https://github.com/anonymousjav/AvPlayRelease/releases/download/AvPlay_1.9.1/AvPlay-1.9.1.ipa"
-        },
-        {
-          "version": "AvPlay_1.9.0",
-          "date": "2026-09-25T16:22:28Z",
-          "size": 22593992,
-          "downloadURL": "https://github.com/anonymousjav/AvPlayRelease/releases/download/AvPlay_1.9.0/AvPlay-1.9.0.ipa"
         }
       ],
       "appPermissions": {},
       "screenshotURLs": [
         "https://github.com/anonymousjav/AvPlayRelease/raw/main/resources/preview.png"
       ],
-      "version": "2.2.0",
-      "versionDate": "2026-10-23T09:02:21Z",
-      "size": 23751956,
-      "downloadURL": "https://github.com/anonymousjav/AvPlayRelease/releases/download/v2.2.0/AvPlay-2.2.0.ipa"
+      "version": "2.2.2",
+      "versionDate": "2026-11-13T13:11:00Z",
+      "size": 23878716,
+      "downloadURL": "https://github.com/anonymousjav/AvPlayRelease/releases/download/v2.2.2/AvPlay-2.2.2.ipa"
     },
     {
       "name": "Pixiv Artvier",
