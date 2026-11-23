@@ -183,12 +183,6 @@
           "date": "2026-09-04T14:08:17Z",
           "size": 54824957,
           "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.28/fluxdo-unsigned.ipa"
-        },
-        {
-          "version": "0.2.27",
-          "date": "2026-08-21T07:40:24Z",
-          "size": 54730095,
-          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.27/fluxdo-unsigned.ipa"
         }
       ],
       "appPermissions": {},
