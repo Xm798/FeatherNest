@@ -1,0 +1,21 @@
+# App Basic Information
+name: WrapPin
+bundleIdentifier: com.suversal.wrappin
+developerName: suversal
+iconURL: https://github.com/suversal/WrapPin/raw/main/Design/WrapPin-AppIcon-Light.png
+localizedDescription: "iOS/iPadOS 18+ 本机虚拟定位与路线模拟工具（标准版）。支持在 Apple 地图上固定定位、模拟步行与驾车路线、自定义路线与 GPX 导入、收藏与历史记录及真实位置恢复。标准版需搭配 LocalDevVPN 等兼容设备隧道使用，支持免费 Apple 账号自签。"
+subtitle: "iOS 18+ 本机虚拟定位与路线模拟工具（标准版）"
+tintColor: "0860f8"
+
+screenshotURLs:
+  - https://github.com/user-attachments/assets/53a866d2-bf4f-49f3-a51d-a8994072543d
+  - https://github.com/user-attachments/assets/84d346ae-096a-4eeb-812d-d56100c39df8
+
+appPermissions: {}
+
+# GitHub Release Configuration
+github:
+  owner: suversal
+  repo: WrapPin
+  assetPattern: "WrapPin-Standard-*.ipa"
+  maxVersions: 5

@@ -1,0 +1,21 @@
+# App Basic Information
+name: WrapPin Tunnel
+bundleIdentifier: com.suversal.wrappin.selfsigned
+developerName: suversal
+iconURL: https://github.com/suversal/WrapPin/raw/main/Design/WrapPin-AppIcon-Light.png
+localizedDescription: "iOS/iPadOS 18+ 本机虚拟定位与路线模拟工具（内置隧道版）。支持固定定位、模拟步行与驾车路线、自定义路线与 GPX 导入及真实位置恢复，并内置设备隧道自动连接，无需外部 LocalDevVPN。主 App 与扩展均需带 Packet Tunnel 权限的签名配置，使用独立 Bundle ID，可与标准版共存。"
+subtitle: "iOS 18+ 本机虚拟定位与路线模拟工具（内置隧道版）"
+tintColor: "0860f8"
+
+screenshotURLs:
+  - https://github.com/user-attachments/assets/53a866d2-bf4f-49f3-a51d-a8994072543d
+  - https://github.com/user-attachments/assets/84d346ae-096a-4eeb-812d-d56100c39df8
+
+appPermissions: {}
+
+# GitHub Release Configuration
+github:
+  owner: suversal
+  repo: WrapPin
+  assetPattern: "WrapPin-Tunnel-*.ipa"
+  maxVersions: 5
