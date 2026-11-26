@@ -252,6 +252,12 @@
       "tintColor": "289979",
       "versions": [
         {
+          "version": "3.1.0",
+          "date": "2026-11-26T03:08:21Z",
+          "size": 20832997,
+          "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/3.1.0/EhPanda-Beta.ipa"
+        },
+        {
           "version": "3.0.0",
           "date": "2026-11-12T18:13:21Z",
           "size": 18858405,
@@ -274,12 +280,6 @@
           "date": "2024-12-15T05:32:14Z",
           "size": 7231285,
           "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.9/EhPanda.ipa"
-        },
-        {
-          "version": "2.7.8",
-          "date": "2024-11-11T05:44:32Z",
-          "size": 7193274,
-          "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.8/EhPanda.ipa"
         }
       ],
       "appPermissions": {},
@@ -295,10 +295,10 @@
         "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/Setting_EN_Light.png",
         "https://github.com/EhPanda-Team/ehpanda-website/raw/main/public/img/screenshot/DomainFronting_EN_Light.png"
       ],
-      "version": "3.0.0",
-      "versionDate": "2026-11-12T18:13:21Z",
-      "size": 18858405,
-      "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/3.0.0/EhPanda-AltStore.ipa"
+      "version": "3.1.0",
+      "versionDate": "2026-11-26T03:08:21Z",
+      "size": 20832997,
+      "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/3.1.0/EhPanda-Beta.ipa"
     },
     {
       "name": "AirCard",
