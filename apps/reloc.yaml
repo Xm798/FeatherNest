@@ -1,0 +1,17 @@
+# App Basic Information
+name: Reloc
+bundleIdentifier: dev.reloc.ios
+developerName: Reukix
+iconURL: https://github.com/Reukix/Reloc/raw/main/Reloc/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png
+localizedDescription: "面向 iPhone（iOS 17.0+）的外设级定位模拟工具。通过外部代理提供的本地回环连接系统 CarKit 外设通道，实现 iAP2 / MFi-v3 / NMEA-0183 外设定位注入。支持定格定位、Apple 地图（GCJ-02/WGS-84 自动纠偏）及多源纯 WGS-84 全球瓦片地图、后台保活、收藏夹与历史记录，以及停止后优雅恢复真实 GPS。iOS 27+ 支持本机一键配对与画中画悬浮指引；仅支持 iPhone，不支持 iPad。"
+subtitle: "iOS 17+ 本机外设级定位模拟工具（仅支持 iPhone）"
+tintColor: "2b73f5"
+
+appPermissions: {}
+
+# GitHub Release Configuration
+github:
+  owner: Reukix
+  repo: Reloc
+  assetPattern: "*.ipa"
+  maxVersions: 5
