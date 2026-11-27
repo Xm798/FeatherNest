@@ -2,13 +2,16 @@ import * as fs from 'fs/promises';
 import * as path from 'path';
 import * as yaml from 'js-yaml';
 import { GitHubClient } from './github';
-import { App, AppConfig, AppRepository, RepoConfig } from './types';
+import { WebSourceClient } from './web';
+import { App, AppConfig, AppRepository, AppVersion, RepoConfig } from './types';
 
 export class RepoGenerator {
   private githubClient: GitHubClient;
+  private webClient: WebSourceClient;
 
   constructor(githubToken?: string) {
     this.githubClient = new GitHubClient(githubToken);
+    this.webClient = new WebSourceClient();
   }
 
   async generate(appsDir: string, repoConfigPath: string, outputPath: string): Promise<void> {
@@ -24,7 +27,15 @@ export class RepoGenerator {
     for (const appConfig of appConfigs) {
       console.log(`  Processing ${appConfig.name}...`);
       try {
-        const versions = await this.githubClient.fetchReleases(appConfig.github);
+        let versions: AppVersion[];
+        if (appConfig.github) {
+          versions = await this.githubClient.fetchReleases(appConfig.github);
+        } else if (appConfig.web) {
+          versions = await this.webClient.fetchReleases(appConfig.web);
+        } else {
+          console.warn(`    Warning: No release source configured for ${appConfig.name}`);
+          continue;
+        }
 
         if (versions.length === 0) {
           console.warn(`    Warning: No valid releases found for ${appConfig.name}`);

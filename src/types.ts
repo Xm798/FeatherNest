@@ -15,7 +15,7 @@ export interface App {
   tintColor: string;
   versions: AppVersion[];
   appPermissions: Record<string, any>;
-  screenshotURLs: string[];
+  screenshotURLs?: string[];
   version: string;
   versionDate: string;
   size: number;
@@ -50,6 +50,13 @@ export interface GitHubConfig {
   allowPrerelease?: boolean;
 }
 
+export interface WebSourceConfig {
+  url: string;
+  downloadURLPattern: string;
+  versionPattern?: string;
+  datePattern?: string;
+}
+
 export interface AppConfig {
   name: string;
   bundleIdentifier: string;
@@ -58,9 +65,10 @@ export interface AppConfig {
   localizedDescription: string;
   subtitle: string;
   tintColor: string;
-  screenshotURLs: string[];
+  screenshotURLs?: string[];
   appPermissions?: Record<string, any>;
-  github: GitHubConfig;
+  github?: GitHubConfig;
+  web?: WebSourceConfig;
 }
 
 export interface RepoConfig {
