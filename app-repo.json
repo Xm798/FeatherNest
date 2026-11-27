@@ -64,6 +64,18 @@
       "tintColor": "2b73f5",
       "versions": [
         {
+          "version": "1.0.4",
+          "date": "2026-11-27T11:22:31Z",
+          "size": 3475407,
+          "downloadURL": "https://github.com/Reukix/Reloc/releases/download/v1.0.4/Reloc.ipa"
+        },
+        {
+          "version": "1.0.3",
+          "date": "2026-11-27T10:53:45Z",
+          "size": 3483270,
+          "downloadURL": "https://github.com/Reukix/Reloc/releases/download/v1.0.3/Reloc.ipa"
+        },
+        {
           "version": "1.0.2",
           "date": "2026-11-26T17:31:32Z",
           "size": 4533520,
@@ -83,10 +95,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "1.0.2",
-      "versionDate": "2026-11-26T17:31:32Z",
-      "size": 4533520,
-      "downloadURL": "https://github.com/Reukix/Reloc/releases/download/v1.0.2/Reloc.ipa"
+      "version": "1.0.4",
+      "versionDate": "2026-11-27T11:22:31Z",
+      "size": 3475407,
+      "downloadURL": "https://github.com/Reukix/Reloc/releases/download/v1.0.4/Reloc.ipa"
     },
     {
       "name": "AvPlay",
