@@ -5,26 +5,54 @@
   "website": "https://github.com/Xm798/FeatherNest",
   "apps": [
     {
-      "name": "AvPlay",
-      "bundleIdentifier": "com.javdb.avplay",
-      "developerName": "anonymousjav",
-      "iconURL": "https://www.javrocket.top/art/app_icon.png",
-      "localizedDescription": "一个优雅的开车 App，覆盖日本、中文、欧美、动漫等资源，支持在线观看与内置播放器。仅供研究与学习交流使用。",
-      "subtitle": "一个优雅的开车 App · 全平台覆盖",
-      "tintColor": "ea7233",
+      "name": "WrapPin Tunnel",
+      "bundleIdentifier": "com.suversal.wrappin.selfsigned",
+      "developerName": "suversal",
+      "iconURL": "https://github.com/suversal/WrapPin/raw/main/Design/WrapPin-AppIcon-Light.png",
+      "localizedDescription": "iOS/iPadOS 18+ 本机虚拟定位与路线模拟工具（内置隧道版）。支持固定定位、模拟步行与驾车路线、自定义路线与 GPX 导入及真实位置恢复，并内置设备隧道自动连接，无需外部 LocalDevVPN。主 App 与扩展均需带 Packet Tunnel 权限的签名配置，使用独立 Bundle ID，可与标准版共存。",
+      "subtitle": "iOS 18+ 本机虚拟定位与路线模拟工具（内置隧道版）",
+      "tintColor": "0860f8",
       "versions": [
         {
-          "version": "2.2.2",
-          "date": "2026-11-26T07:47:53Z",
-          "size": 23878716,
-          "downloadURL": "https://dl.javrocket.top/v2.2.2/AvPlay-2.2.2.ipa"
+          "version": "1.0.27",
+          "date": "2026-11-26T14:45:47Z",
+          "size": 7314929,
+          "downloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.27/WrapPin-Tunnel-1.0.27-build106-unsigned.ipa"
+        },
+        {
+          "version": "1.0.26",
+          "date": "2026-11-24T07:09:57Z",
+          "size": 7220350,
+          "downloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.26/WrapPin-Tunnel-1.0.26-build96-unsigned.ipa"
+        },
+        {
+          "version": "1.0.25",
+          "date": "2026-11-18T17:29:45Z",
+          "size": 7175234,
+          "downloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.25/WrapPin-Tunnel-1.0.25-build93-unsigned.ipa"
+        },
+        {
+          "version": "1.0.24",
+          "date": "2026-11-18T06:20:00Z",
+          "size": 7171353,
+          "downloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.24/WrapPin-Tunnel-1.0.24-build88-unsigned.ipa"
+        },
+        {
+          "version": "1.0.23",
+          "date": "2026-11-16T12:30:54Z",
+          "size": 6993495,
+          "downloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.23/WrapPin-Tunnel-1.0.23-build75-unsigned.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "2.2.2",
-      "versionDate": "2026-11-26T07:47:53Z",
-      "size": 23878716,
-      "downloadURL": "https://dl.javrocket.top/v2.2.2/AvPlay-2.2.2.ipa"
+      "screenshotURLs": [
+        "https://github.com/user-attachments/assets/53a866d2-bf4f-49f3-a51d-a8994072543d",
+        "https://github.com/user-attachments/assets/84d346ae-096a-4eeb-812d-d56100c39df8"
+      ],
+      "version": "1.0.27",
+      "versionDate": "2026-11-26T14:45:47Z",
+      "size": 7314929,
+      "downloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.27/WrapPin-Tunnel-1.0.27-build106-unsigned.ipa"
     },
     {
       "name": "Reloc",
@@ -59,6 +87,74 @@
       "versionDate": "2026-11-26T17:31:32Z",
       "size": 4533520,
       "downloadURL": "https://github.com/Reukix/Reloc/releases/download/v1.0.2/Reloc.ipa"
+    },
+    {
+      "name": "AvPlay",
+      "bundleIdentifier": "com.javdb.avplay",
+      "developerName": "anonymousjav",
+      "iconURL": "https://www.javrocket.top/art/app_icon.png",
+      "localizedDescription": "一个优雅的开车 App，覆盖日本、中文、欧美、动漫等资源，支持在线观看与内置播放器。仅供研究与学习交流使用。",
+      "subtitle": "一个优雅的开车 App · 全平台覆盖",
+      "tintColor": "ea7233",
+      "versions": [
+        {
+          "version": "2.2.2",
+          "date": "2026-11-26T07:47:53Z",
+          "size": 23878716,
+          "downloadURL": "https://dl.javrocket.top/v2.2.2/AvPlay-2.2.2.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.2.2",
+      "versionDate": "2026-11-26T07:47:53Z",
+      "size": 23878716,
+      "downloadURL": "https://dl.javrocket.top/v2.2.2/AvPlay-2.2.2.ipa"
+    },
+    {
+      "name": "Pixiv Viewer",
+      "bundleIdentifier": "org.eu.cocomi.pxvek",
+      "developerName": "asadahimeka",
+      "iconURL": "https://github.com/asadahimeka/pixiv-viewer-app/blob/main/ios/App/App/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png?raw=true",
+      "localizedDescription": "Yet Another Pixiv Illustration & Novel Viewer.",
+      "subtitle": "又一个 pixiv 第三方免登录 APP，提供 pixiv 的插画、动图、漫画和小说等作品的浏览，适配多端样式，提供多种浏览布局选择，支持免代理直连，支持自定义 API 与图床，支持 RefreshToken/OAuth/Cookie 方式登录。",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "1.37.6",
+          "date": "2026-10-01T13:09:51Z",
+          "size": 9950182,
+          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.37.6/pixiv-viewer_1.37.6_ios_unsigned.ipa"
+        },
+        {
+          "version": "1.37.5",
+          "date": "2026-09-24T07:40:13Z",
+          "size": 9934798,
+          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.37.5/pixiv-viewer_1.37.5_ios_unsigned.ipa"
+        },
+        {
+          "version": "1.32.2",
+          "date": "2026-03-22T08:34:08Z",
+          "size": 8604031,
+          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.32.2/pixiv-viewer_1.32.2_ios_unsigned.ipa"
+        },
+        {
+          "version": "1.25.5",
+          "date": "2025-05-12T03:46:44Z",
+          "size": 7021184,
+          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.25.5/pixiv-viewer_1.25.5_ios_unsigned.ipa"
+        }
+      ],
+      "appPermissions": {},
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea1.jpg",
+        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea2.jpg",
+        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea3.jpg",
+        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea4.jpg"
+      ],
+      "version": "1.37.6",
+      "versionDate": "2026-10-01T13:09:51Z",
+      "size": 9950182,
+      "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.37.6/pixiv-viewer_1.37.6_ios_unsigned.ipa"
     },
     {
       "name": "WrapPin",
@@ -109,46 +205,6 @@
       "versionDate": "2026-11-26T14:45:47Z",
       "size": 7254821,
       "downloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.27/WrapPin-Standard-1.0.27-build106-unsigned.ipa"
-    },
-    {
-      "name": "FluxDO",
-      "bundleIdentifier": "com.github.lingyan000.fluxdo",
-      "developerName": "lingyan000",
-      "iconURL": "https://lingyan000.github.io/fluxdo/icon.png",
-      "localizedDescription": "A third-party client for LINUX DO community.",
-      "subtitle": "一个 Linux.do 第三方客户端",
-      "tintColor": "ffb003",
-      "versions": [
-        {
-          "version": "0.2.31",
-          "date": "2026-11-20T05:13:46Z",
-          "size": 42460860,
-          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.31/fluxdo-unsigned.ipa"
-        },
-        {
-          "version": "0.2.30",
-          "date": "2026-11-13T08:38:12Z",
-          "size": 41377170,
-          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.30/fluxdo-unsigned.ipa"
-        },
-        {
-          "version": "0.2.29",
-          "date": "2026-10-20T08:49:53Z",
-          "size": 55505719,
-          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.29/fluxdo-unsigned.ipa"
-        },
-        {
-          "version": "0.2.28",
-          "date": "2026-09-04T14:08:17Z",
-          "size": 54824957,
-          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.28/fluxdo-unsigned.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "version": "0.2.31",
-      "versionDate": "2026-11-20T05:13:46Z",
-      "size": 42460860,
-      "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.31/fluxdo-unsigned.ipa"
     },
     {
       "name": "Pixiv Artvier",
@@ -203,94 +259,44 @@
       "downloadURL": "https://github.com/kerrinz/pixiv-artvier/releases/download/0.8.2/app-release.ipa"
     },
     {
-      "name": "AirCard",
-      "bundleIdentifier": "com.mak5er.aircard",
-      "developerName": "Mak5er",
-      "iconURL": "https://github.com/Mak5er/AirCard-iOS/raw/main/ios-app/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
-      "localizedDescription": "Apple Wallet card skins, lock screen passcode themes, and PosterBoard wallpapers directly on iOS 27+, without a jailbreak.",
-      "subtitle": "Wallet card skins and passcode themes on iOS 27+.",
-      "tintColor": "5b24da",
+      "name": "FluxDO",
+      "bundleIdentifier": "com.github.lingyan000.fluxdo",
+      "developerName": "lingyan000",
+      "iconURL": "https://lingyan000.github.io/fluxdo/icon.png",
+      "localizedDescription": "A third-party client for LINUX DO community.",
+      "subtitle": "一个 Linux.do 第三方客户端",
+      "tintColor": "ffb003",
       "versions": [
         {
-          "version": "1.3.2",
-          "date": "2026-10-04T12:22:53Z",
-          "size": 4638147,
-          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.2/AirCard-iOS.ipa"
+          "version": "0.2.31",
+          "date": "2026-11-20T05:13:46Z",
+          "size": 42460860,
+          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.31/fluxdo-unsigned.ipa"
         },
         {
-          "version": "1.3.1",
-          "date": "2026-10-01T23:01:18Z",
-          "size": 4597510,
-          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.1/AirCard-iOS.ipa"
+          "version": "0.2.30",
+          "date": "2026-11-13T08:38:12Z",
+          "size": 41377170,
+          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.30/fluxdo-unsigned.ipa"
         },
         {
-          "version": "1.3",
-          "date": "2026-09-20T02:08:32Z",
-          "size": 4452235,
-          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3/AirCard-iOS.ipa"
+          "version": "0.2.29",
+          "date": "2026-10-20T08:49:53Z",
+          "size": 55505719,
+          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.29/fluxdo-unsigned.ipa"
         },
         {
-          "version": "1.2.5",
-          "date": "2026-09-19T22:19:08Z",
-          "size": 4180858,
-          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.2.5/AirCard-iOS.ipa"
+          "version": "0.2.28",
+          "date": "2026-09-04T14:08:17Z",
+          "size": 54824957,
+          "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.28/fluxdo-unsigned.ipa"
         }
       ],
       "appPermissions": {},
-      "version": "1.3.2",
-      "versionDate": "2026-10-04T12:22:53Z",
-      "size": 4638147,
-      "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.2/AirCard-iOS.ipa"
-    },
-    {
-      "name": "WrapPin Tunnel",
-      "bundleIdentifier": "com.suversal.wrappin.selfsigned",
-      "developerName": "suversal",
-      "iconURL": "https://github.com/suversal/WrapPin/raw/main/Design/WrapPin-AppIcon-Light.png",
-      "localizedDescription": "iOS/iPadOS 18+ 本机虚拟定位与路线模拟工具（内置隧道版）。支持固定定位、模拟步行与驾车路线、自定义路线与 GPX 导入及真实位置恢复，并内置设备隧道自动连接，无需外部 LocalDevVPN。主 App 与扩展均需带 Packet Tunnel 权限的签名配置，使用独立 Bundle ID，可与标准版共存。",
-      "subtitle": "iOS 18+ 本机虚拟定位与路线模拟工具（内置隧道版）",
-      "tintColor": "0860f8",
-      "versions": [
-        {
-          "version": "1.0.27",
-          "date": "2026-11-26T14:45:47Z",
-          "size": 7314929,
-          "downloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.27/WrapPin-Tunnel-1.0.27-build106-unsigned.ipa"
-        },
-        {
-          "version": "1.0.26",
-          "date": "2026-11-24T07:09:57Z",
-          "size": 7220350,
-          "downloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.26/WrapPin-Tunnel-1.0.26-build96-unsigned.ipa"
-        },
-        {
-          "version": "1.0.25",
-          "date": "2026-11-18T17:29:45Z",
-          "size": 7175234,
-          "downloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.25/WrapPin-Tunnel-1.0.25-build93-unsigned.ipa"
-        },
-        {
-          "version": "1.0.24",
-          "date": "2026-11-18T06:20:00Z",
-          "size": 7171353,
-          "downloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.24/WrapPin-Tunnel-1.0.24-build88-unsigned.ipa"
-        },
-        {
-          "version": "1.0.23",
-          "date": "2026-11-16T12:30:54Z",
-          "size": 6993495,
-          "downloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.23/WrapPin-Tunnel-1.0.23-build75-unsigned.ipa"
-        }
-      ],
-      "appPermissions": {},
-      "screenshotURLs": [
-        "https://github.com/user-attachments/assets/53a866d2-bf4f-49f3-a51d-a8994072543d",
-        "https://github.com/user-attachments/assets/84d346ae-096a-4eeb-812d-d56100c39df8"
-      ],
-      "version": "1.0.27",
-      "versionDate": "2026-11-26T14:45:47Z",
-      "size": 7314929,
-      "downloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.27/WrapPin-Tunnel-1.0.27-build106-unsigned.ipa"
+      "version": "0.2.31",
+      "versionDate": "2026-11-20T05:13:46Z",
+      "size": 42460860,
+      "downloadURL": "https://github.com/Lingyan000/fluxdo/releases/download/v0.2.31/fluxdo-unsigned.ipa"
     },
     {
       "name": "EhPanda",
@@ -351,50 +357,44 @@
       "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/3.1.0/EhPanda-Beta.ipa"
     },
     {
-      "name": "Pixiv Viewer",
-      "bundleIdentifier": "org.eu.cocomi.pxvek",
-      "developerName": "asadahimeka",
-      "iconURL": "https://github.com/asadahimeka/pixiv-viewer-app/blob/main/ios/App/App/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png?raw=true",
-      "localizedDescription": "Yet Another Pixiv Illustration & Novel Viewer.",
-      "subtitle": "又一个 pixiv 第三方免登录 APP，提供 pixiv 的插画、动图、漫画和小说等作品的浏览，适配多端样式，提供多种浏览布局选择，支持免代理直连，支持自定义 API 与图床，支持 RefreshToken/OAuth/Cookie 方式登录。",
-      "tintColor": "848ef9",
+      "name": "AirCard",
+      "bundleIdentifier": "com.mak5er.aircard",
+      "developerName": "Mak5er",
+      "iconURL": "https://github.com/Mak5er/AirCard-iOS/raw/main/ios-app/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+      "localizedDescription": "Apple Wallet card skins, lock screen passcode themes, and PosterBoard wallpapers directly on iOS 27+, without a jailbreak.",
+      "subtitle": "Wallet card skins and passcode themes on iOS 27+.",
+      "tintColor": "5b24da",
       "versions": [
         {
-          "version": "1.37.6",
-          "date": "2026-10-01T13:09:51Z",
-          "size": 9950182,
-          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.37.6/pixiv-viewer_1.37.6_ios_unsigned.ipa"
+          "version": "1.3.2",
+          "date": "2026-10-04T12:22:53Z",
+          "size": 4638147,
+          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.2/AirCard-iOS.ipa"
         },
         {
-          "version": "1.37.5",
-          "date": "2026-09-24T07:40:13Z",
-          "size": 9934798,
-          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.37.5/pixiv-viewer_1.37.5_ios_unsigned.ipa"
+          "version": "1.3.1",
+          "date": "2026-10-01T23:01:18Z",
+          "size": 4597510,
+          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.1/AirCard-iOS.ipa"
         },
         {
-          "version": "1.32.2",
-          "date": "2026-03-22T08:34:08Z",
-          "size": 8604031,
-          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.32.2/pixiv-viewer_1.32.2_ios_unsigned.ipa"
+          "version": "1.3",
+          "date": "2026-09-20T02:08:32Z",
+          "size": 4452235,
+          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3/AirCard-iOS.ipa"
         },
         {
-          "version": "1.25.5",
-          "date": "2025-05-12T03:46:44Z",
-          "size": 7021184,
-          "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.25.5/pixiv-viewer_1.25.5_ios_unsigned.ipa"
+          "version": "1.2.5",
+          "date": "2026-09-19T22:19:08Z",
+          "size": 4180858,
+          "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.2.5/AirCard-iOS.ipa"
         }
       ],
       "appPermissions": {},
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea1.jpg",
-        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea2.jpg",
-        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea3.jpg",
-        "https://raw.githubusercontent.com/asadahimeka/pixiv-viewer/master/docs/ea4.jpg"
-      ],
-      "version": "1.37.6",
-      "versionDate": "2026-10-01T13:09:51Z",
-      "size": 9950182,
-      "downloadURL": "https://github.com/asadahimeka/pixiv-viewer-app/releases/download/v1.37.6/pixiv-viewer_1.37.6_ios_unsigned.ipa"
+      "version": "1.3.2",
+      "versionDate": "2026-10-04T12:22:53Z",
+      "size": 4638147,
+      "downloadURL": "https://github.com/Mak5er/AirCard-iOS/releases/download/v1.3.2/AirCard-iOS.ipa"
     }
   ],
   "news": []
